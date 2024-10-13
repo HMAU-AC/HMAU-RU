@@ -1,0 +1,45 @@
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,static.cloudflareinsights.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-KEYWORD,openai
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+# 插件相关
+IP-CIDR,23.102.140.112/28,no-resolve
+IP-CIDR,13.66.11.96/28,no-resolve
+# 数据来源于https://platform.openai.com/docs/plugins/bot
+IP-CIDR,23.98.142.176/28,no-resolve
+IP-CIDR,40.84.180.224/28,no-resolve
+IP-CIDR,13.65.240.240/28,no-resolve
+IP-CIDR,20.97.189.96/28,no-resolve
+IP-CIDR,20.161.75.208/28,no-resolve
+IP-CIDR,52.225.75.208/28,no-resolve
+IP-CIDR,52.156.77.144/28,no-resolve
+IP-CIDR,40.84.221.208/28,no-resolve
+IP-CIDR,40.84.221.224/28,no-resolve
+IP-CIDR,40.84.180.64/28,no-resolve
+
+IP-ASN,20473,no-resolve
+DOMAIN-SUFFIX,cloudflare.com // Added for: challenges.cloudflare.com:443
+DOMAIN-SUFFIX,revenuecat.com // Added for: api.revenuecat.com:443
+DOMAIN,is1-ssl.mzstatic.com // Added for: is1-ssl.mzstatic.com:443

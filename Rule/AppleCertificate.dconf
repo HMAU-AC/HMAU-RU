@@ -1,0 +1,12 @@
+# 苹果证书检查相关域名
+DOMAIN-SUFFIX,certs.apple.com
+DOMAIN-SUFFIX,crl.apple.com
+DOMAIN-SUFFIX,crl.entrust.net
+DOMAIN-SUFFIX,crl3.digicert.com
+DOMAIN-SUFFIX,crl4.digicert.com
+DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,ocsp.digicert.cn
+DOMAIN-SUFFIX,ocsp.digicert.com
+DOMAIN-SUFFIX,ocsp.entrust.net
+DOMAIN-SUFFIX,ocsp2.apple.com
+DOMAIN-SUFFIX,valid.apple.com

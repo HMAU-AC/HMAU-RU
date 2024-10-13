@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,pcdn.com
+DOMAIN-SUFFIX,example-pcdn.com
+DOMAIN-SUFFIX,another-pcdn-domain.com
+DOMAIN-KEYWORD,.pcdn.,extended-matching
+DOMAIN-KEYWORD,-pcdn-,extended-matching
+DOMAIN-KEYWORD,-pcdn.,extended-matching
+# Block PCDN related IPs
+IP-CIDR,192.0.2.0/24
+IP-CIDR,203.0.113.0/24

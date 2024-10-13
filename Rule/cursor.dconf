@@ -1,0 +1,7 @@
+# 代码cursor可使用ChatGPT4.0
+DOMAIN-SUFFIX,control.dev
+DOMAIN-SUFFIX,posthog.com
+DOMAIN-SUFFIX,mitsea.com
+DOMAIN-KEYWORD,.cursor.,extended-matching
+DOMAIN-KEYWORD,-cursor-,extended-matching
+DOMAIN-SUFFIX,mux.com

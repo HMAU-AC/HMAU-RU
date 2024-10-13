@@ -1,0 +1,35 @@
+# 苹果提供的域名分类https://support.apple.com/en-us/101555
+//iOS、iPadOS和watchOS更新
+DOMAIN-SUFFIX,appldnld.apple.com
+//仅限macOS
+DOMAIN-SUFFIX,configuration.apple.com
+//软件更新目录
+DOMAIN-SUFFIX,gdmf.apple.com
+//iOS、iPadOS、tvOS、watchOS和macOS更新
+DOMAIN-SUFFIX,gg.apple.com
+DOMAIN-SUFFIX,gs.apple.com
+//macOS更新
+DOMAIN-SUFFIX,ig.apple.com
+//托管软件更新目录
+DOMAIN-SUFFIX,mesu.apple.com
+//无说明
+DOMAIN-SUFFIX,ns.itunes.apple.com
+//软件更新下载
+DOMAIN-SUFFIX,updates-http.cdn-apple.com
+DOMAIN-SUFFIX,updates.cdn-apple.com
+//无说明
+DOMAIN-SUFFIX,xp.apple.com
+# MACOS 更新
+DOMAIN-SUFFIX,oscdn.apple.com
+DOMAIN-SUFFIX,osrecovery.apple.com
+DOMAIN-SUFFIX,skl.apple.com
+DOMAIN-SUFFIX,swcdn.apple.com
+DOMAIN-SUFFIX,swdist.apple.com
+DOMAIN-SUFFIX,swdownload.apple.com
+DOMAIN-SUFFIX,swscan.apple.com
+ 
+ 
+ 
+ 
+ 
+ 
